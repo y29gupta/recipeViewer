@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/recipeViewer/static/css/main.99f786e0.css",
+    "main.js": "/recipeViewer/static/js/main.864d1d78.js",
+    "static/js/453.1559bcde.chunk.js": "/recipeViewer/static/js/453.1559bcde.chunk.js",
+    "static/media/logo.svg": "/recipeViewer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/recipeViewer/index.html",
+    "main.99f786e0.css.map": "/recipeViewer/static/css/main.99f786e0.css.map",
+    "main.864d1d78.js.map": "/recipeViewer/static/js/main.864d1d78.js.map",
+    "453.1559bcde.chunk.js.map": "/recipeViewer/static/js/453.1559bcde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f786e0.css",
+    "static/js/main.864d1d78.js"
+  ]
+}
